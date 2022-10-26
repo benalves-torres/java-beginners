@@ -10,7 +10,7 @@ public class Ex6_fatorial {
 
         int multiplicacao =1;
 
-        System.out.println(fatorial + "! = ");
+        System.out.println(fatorial + "! = "//);
         for(int i = fatorial; i >= 1; i --){
             multiplicacao = multiplicacao * i;
 
